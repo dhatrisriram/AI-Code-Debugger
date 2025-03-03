@@ -1,6 +1,6 @@
 # AI Code Debugger
 
-The **AI Code Debugger** is an advanced web application that allows you to debug Python and JavaScript code using the power of the OpenAI API. Built with a combination of HTML, CSS, JavaScript, and Express for the backend, this project leverages AI to identify and fix errors in code, providing an enhanced coding experience for developers.
+The **AI Code Debugger** is a web application that allows you to debug Python and JavaScript code using the power of the OpenAI API. Built with a combination of HTML, CSS, JavaScript, and Express for the backend, this project leverages AI to identify and fix errors in code, providing an enhanced coding experience for developers.
 
 ## Features
 
